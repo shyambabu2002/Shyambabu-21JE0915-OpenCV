@@ -6,7 +6,7 @@ from the problem statement what i understand is we have to do the following::
   - Paste different aruco markers according to their respective ids
   - present the output in a good way
 
-To solve this problem following was mhy stratigies ::
+To solve this problem following was my stratigies ::
   - Making a Aruco Sorter which can return a Dictionary
   - Making a function that can split boxes of different colors from the image
   - storing the seperated images with appropiate names
